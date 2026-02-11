@@ -1,20 +1,15 @@
-[![XX](https://Zoujian.github.io/badge/NewtonLebnitz-github-blue?logo=github)](https://github.com/NewtonLebnitz)
+[![Zoujian](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/NewtonLebnitz)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently an undergraduate student at the College of Artificial Intelligence and Computer Science, North China University of Technology, and a member of the Beijing Key Laboratory of Petroleum Data Mining, China University of Petroleum (Beijing).
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>leibniz472330850@gmail.com</code>  
+<code>22101020331@mail.ncut.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**North China University of Technology**, Undergraduate student
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Beijing Key Laboratory of Petroleum Data Mining, China University of Petroleum (Beijing)**, Member<br>   
 
 #### Research Interests  
-XX, XX, XX, XX.
+Embodied Intelligence, Robotics.
