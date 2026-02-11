@@ -1,4 +1,4 @@
-[![XX](https://Zoujian.github.io/badge/Zoujian-github-blue?logo=github)](https://github.com/NewtonLebnitz)
+[![XX](https://Zoujian.github.io/badge/NewtonLebnitz-github-blue?logo=github)](https://github.com/NewtonLebnitz)
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
